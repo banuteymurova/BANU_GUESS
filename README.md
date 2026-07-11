@@ -1,4 +1,4 @@
-BANU GUESS is a Python number guessing game that I created as a my beginner project.
+BANU GUESS is a Python number guessing game that I created as my beginner project.
 
 ## Features
 
